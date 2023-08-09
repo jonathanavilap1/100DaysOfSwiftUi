@@ -79,7 +79,12 @@ fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
 
-# Code Injection
+*.xcuserstate
+project.xcworkspace/xcuserdata/
+*.xcuserdatad/
+DerivedData/
+*.DS_Store
+
 # After new code Injection tools there's a generated folder /iOSInjectionProject
 # https://github.com/johnno1962/injectionforxcode
 
