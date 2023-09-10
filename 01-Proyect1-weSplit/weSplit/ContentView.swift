@@ -69,16 +69,16 @@ struct ContentView: View {
                 }header: {
                     Text("How much do you want to leave")
                 }
-                
-                Section {
-                    Picker("Select a tip ", selection: $tipPercentage) {
-                        ForEach(0..<101){
-                            Text($0, format: .percent).tag($0)
-                        }
-                    }.pickerStyle(.navigationLink)
-                }header: {
-                    Text("Tip new screen")
-                }
+// This screen is a challengue from hacking with swift and it syncs with the picker
+//                Section {
+//                    Picker("Select a tip ", selection: $tipPercentage) {
+//                        ForEach(0..<101){
+//                            Text($0, format: .percent).tag($0)
+//                        }
+//                    }.pickerStyle(.navigationLink)
+//                }header: {
+//                    Text("Tip new screen")
+//                }
                 
                 Section {
                     Text(TiptotalPerPerson, format: currencyFormatter)
