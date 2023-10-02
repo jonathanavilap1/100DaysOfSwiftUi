@@ -23,7 +23,7 @@ It is great way to reflect and see how i have improve during the course
 | :-- | :-- | :--: |
 | [Project 1](01-Proyect1-weSplit) - WeSplit                   | We Built an app that calculates tips. <br> I learned *Form, Section, NavigationView, @State property wrapper @Binding Property wrapper, TextField, Picker, ForEach* </br> | <img src="/01-Proyect1-weSplit/Screenshots/SCweSplit00.png"> |
 | [Challenge Day 1](02-ChallengeDay1-UnitConverter) - Unit Converter        | We were asked to build a unit converter using the knowledge that we acquire from project 1. | <img src="/02-ChallengeDay1-UnitConverter/Screenshot/UnitConverter.png"> |
-| Project 2 - Guess the Flag  | We build a gamme of Guess the flag. <br> *Blurr ,VStack, Image, Alert* </br>  | <img src="" width=70% height=70%> <img src="" width=70% height=70%> <img src="" width=70% height=70%>|
+| Project 2 - Guess the Flag  | We build a gamme of Guess the flag. <br> *Blurr ,VStack, Image, Alert* </br>  | <img src="" width=70% height=70%>|
 | Project 3 - Views and Modifers          | Not completed | <img src="" width=70% height=70%> |
 | Milestone 1-3 Scissors, Paper, Rock     | Not completed | <img src="" width=70% height=70%> |
 | Project 4 - BetterRest                  | Not completed | <img src="" width=70% height=70%> |
