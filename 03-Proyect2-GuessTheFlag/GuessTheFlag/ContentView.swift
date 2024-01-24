@@ -82,6 +82,7 @@ struct ContentView: View {
                                     .shadow(radius: 5)
                             }
                         }
+                        .rotationEffect(Angle(selected))
                     }.frame(maxWidth: .infinity)
                         .padding(.vertical, 20)
                         .background(.regularMaterial)
